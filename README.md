@@ -9,6 +9,6 @@ The bottom line is: won't speak of Python o.O
 
 ## 3. Version control clients
 
-1. RabbitVCS on Linus
+1. RabbitVCS on Linux
 2. Tortoise on MS Windows
 3. on MacOSX ?
