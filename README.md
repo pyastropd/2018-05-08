@@ -6,3 +6,9 @@ We organized this Python programming code talk in three parts:
 3. Version control clients (if you do not like the command line... or you use MS Windows)
     
 The bottom line is: won't speak of Python o.O
+
+## 3. Version control clients
+
+1. RabbitVCS on Linus
+2. Tortoise on MS Windows
+3. on MacOSX ?
