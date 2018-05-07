@@ -1,4 +1,4 @@
-# Version Control: git&github (and SVN)
+# Version Control: git&github (and SVN and a bit of Mercurial)
 
 We organized this Python programming code talk in three parts:
 1. Spicy introduction on version control 
