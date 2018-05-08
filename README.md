@@ -12,3 +12,5 @@ The bottom line is: won't speak of Python o.O
 1. RabbitVCS on Linux
 2. Tortoise on MS Windows
 3. on MacOSX ?
+
+See `VCS_client.pdf` file for a super short presentation.
